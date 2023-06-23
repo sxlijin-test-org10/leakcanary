@@ -1,4 +1,4 @@
 echo $VAR
 
 echo $var2
-#again
+echo $var3
