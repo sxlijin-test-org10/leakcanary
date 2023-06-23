@@ -1,3 +1,3 @@
 echo $VAR
 echo nothing
-less
+echo lorem
