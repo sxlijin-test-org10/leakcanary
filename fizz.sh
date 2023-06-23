@@ -1,1 +1,2 @@
 echo $VAR
+echo nothing
